@@ -1,0 +1,4 @@
+name: account-status
+version: 0.1.0
+description: "Show credential-pool accounts (ChatGPT/Claude/...) with status and quota usage."
+author: Tung

@@ -1,0 +1,8 @@
+{
+  "name": "account-status",
+  "label": "Accounts",
+  "description": "Credential-pool accounts, status and quota",
+  "icon": "Users",
+  "version": "0.1.0",
+  "api": "plugin_api.py"
+}
